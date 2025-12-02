@@ -1,6 +1,8 @@
 # TE (Information Technology) Notes - SPPU 2019 Pattern
 Welcome! This repository contains handwritten notes and materials for Third Year (TE) Information Technology subjects, following the Savitribai Phule Pune University (SPPU) 2019 Pattern.
 
+ALL PYQ's (https://drive.google.com/drive/folders/0Bz9C0ysJZ7PnMGZKeWcybUpXWGM?resourcekey=0-S2yaWXvAG7ObM_GC8LRNTQ&usp=drive_link)
+
 (If you are not able to see the file..you must download it as raw. The file will be downloaded locally and can be viewed)
 ---
 <img width="600" height="450" alt="Girl house on fire" src="https://github.com/user-attachments/assets/8abd1132-76ff-40e3-85b4-36be57c4c05c" />
